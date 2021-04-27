@@ -1,5 +1,5 @@
 # Computer-Organisation
-This repository has all codes  and its explainations.
+This repository has some beginner to intermeditate level Assembly programming which i learnt as a part of coursework.
 For all those who love assembly coding for different architechtures or for those trying to explore it.
 This will be updated fully by August 2021.
 Hope you all learn with me.
