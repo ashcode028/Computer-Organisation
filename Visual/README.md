@@ -17,7 +17,7 @@ loop
 		mov		r1, r6
 		mov		r0, #1
  ```
- ![Output]()
+ ![Output](Visual/P1.png)
 ### Example of a Procedure having a subroutine.
 Example that invokes a procedure named P with three integer parameters. The procedure adds the first two and multiplies it with the third. Procedure P is invoked with arguments 11, 22 and 33. The result returned by P is printed on the std output handle.
 ```
@@ -41,3 +41,4 @@ mul		add		r3, r3, #1
 		LDMIA	sp!,{r4-r11}
 		mov		pc, lr
 ```
+ ![Output](Visual/P2.png)
