@@ -33,6 +33,13 @@ Any changes/updates are welcomed.
   1. Sum elements of an array and print on the std [output](https://github.com/ashcode028/Computer-Organisation/tree/main/Visual#program-to-add-elements-of-the-array-and-prints-its-output-to-std-output) handle.
   2. This program defines a procedure P, which takes three arguments using registers(r0-r2).
      It add the first two, and multiplies the result by the third argument.This program uses this procedure, and prints the      result on std [output](https://github.com/ashcode028/Computer-Organisation/tree/main/Visual#example-of-a-procedure-having-a-subroutine) handle
+     
+### [Cache Implementation](Cache/README.md):
+  A cache of size S with CL as the number of cache lines and block size B is to be built. S, CL, and B are in powers of 2.     Program that allows loading into cache and searching cache using
+  1. Direct mapping [code](Cache/direct.java) 
+  2. Associative memory. [code](Cache/associative.java) 
+  3. n-way set associative memory where n is a power of 2.[code](Cache/setAssociative.java) 
+
 ### Micro-Assembly Programming Examples:
   1. Program to check if the value in r2 is a perfect square or not.
  ```
@@ -129,12 +136,6 @@ mmovi regSrc, 0
 mmovi regData, 0, <write>
 mb .begin
   ```
-### [Cache Implementation](Cache/README.md):
-  A cache of size S with CL as the number of cache lines and block size B is to be built. S, CL, and B are in powers of 2.     Program that allows loading into cache and searching cache using
-  1. Direct mapping [code](Cache/direct.java) 
-  2. Associative memory. [code](Cache/associative.java) 
-  3. n-way set associative memory where n is a power of 2.[code](Cache/setAssociative.java) 
-
 ### Code for ALU in VHDL
   1. Basic operation ADD is implemented with overflow flags.
   ```
