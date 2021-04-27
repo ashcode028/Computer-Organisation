@@ -18,7 +18,7 @@ Any changes/updates are welcomed.
   3. Hexadecimal To Octal-First convert to binary then group of 3 digits from right (binary to octal)
  
  
-### Arm-Sim Programs:
+### [Arm-Sim Programs](ArmSim/README.md):
   1. Count no of 1's in the given number
   2. Sum elements of an array and print on the std output handle.
   3. Example that invokes a procedure named P with three integer parameters. 
@@ -29,14 +29,14 @@ Any changes/updates are welcomed.
   5. Program to add 64-bit integers using the program to add 2-byte integers (C++)
   6. Program to find no of 1s in a given number(ArmSim and C++)
 
-### Visual Programs:
+### [Visual Programs](Visual/README.md):
   1. Sum elements of an array and print on the std output handle.
   2. This program defines a procedure P, which takes three arguments using registers(r0-r2).
      It add the first two, and multiplies the result by the third argument.This program uses this procedure, and prints the      result on std output handle
 ### MicroProgramming Examples:
   1. Program to check if the value in r2 is a perfect square or not.
   2. Program to check if the value in r2 is a palindrome or not.
-### Cache Implementation
+### [Cache Implementation](Cache/README.md):
   A cache of size S with CL as the number of cache lines and block size B is to be built. S, CL, and B are in powers of 2.     Program that allows loading into cache and searching cache using
   1. Direct mapping 
   2. Associative memory
