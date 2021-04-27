@@ -1,4 +1,5 @@
-
+### All ArmSim codes:
+Attached the output of the program run on ARMSIM.Hover over the headings to see the codes.Once you see the codes the comments will walkthrough the implementation of the code.
 ## [Count no of 1's in the given number](ArmSim/Count_1s.s)
 ![](https://github.com/ashcode028/Computer-Organisation/blob/5444076cc344c27cb0ecf63e18514f23e054804d/ArmSim/Count1s.png)
 ## [Sum elements of an array and print on the std output handle.](ArmSim/p1.s)
