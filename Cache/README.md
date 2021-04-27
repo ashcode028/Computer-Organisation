@@ -34,7 +34,7 @@ block of main memory is not present in the cache. Here, the main memory is divid
 into two fields: word field identifies which word in the block is needed and the tag field
 identifies the block. It is considered to be the fastest and the most flexible mapping form
 of cache mapping.
-![](https://github.com/ashcode028/Computer-Organisation/blob/e346c23fec0afc6d2f69bbaba6758d0805437d84/Cache/associative.java)
+![](https://github.com/ashcode028/Computer-Organisation/blob/575927726c798421cce52a22212c2418d317a741/Cache/Associative.png)
   ## Set-associative Mapping
   In this mapping technique, blocks of cache are grouped to form a set and a block of
 main memory can go into any block of a specific set.
